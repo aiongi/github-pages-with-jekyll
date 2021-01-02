@@ -3,7 +3,7 @@ title: "trasno"
 date: 2021-01-02
 ---
 
-<h2>no sé si anda con esto pero</h2>
+no sé si anda con esto pero
 ## creo que debería hacer esto
 ---
 es .md, igual por ahí lo procese, probemos
