@@ -1,3 +1,3 @@
-# Welcome to my blog
+# buenas, este es mi blog
 
-I'm glad you are here. I plan to talk about ...
+Mugre virtual, tierra escaneada y código ineficiente. Nada más.
